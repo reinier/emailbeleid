@@ -1,0 +1,38 @@
+body {
+	font-size: 0.9em;
+}
+
+div#main-content {
+	padding-right: 50px;
+}
+
+h1 {
+	padding: 1em 0;
+	
+}
+
+h2 {
+	margin-bottom: 0em;
+}
+
+p {
+	margin: 0 0 1em 0;
+}
+
+p.copypaste {
+	font-size: 1.2em;
+}
+
+div#side {
+	background-color: #fbfbfb;
+	border: 5px solid #ededed;
+	padding: 1.2em;
+	margin-bottom: 1em;
+}
+
+ul.recommend,
+ul.recommend li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
