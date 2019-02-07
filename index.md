@@ -18,33 +18,30 @@ layout: home
 
 ## E-mail lezen
 
-<p>Het lezen van e-mail is beperkt tot maximaal 3 keer per dag. In het weekend is dit maar 1 keer per dag. E-mail is per definitie iets waarvan je niet met zekerheid kunt weten of iemand direct zal reageren. Indien je wilt dat iemand direct reageert is er het medium &#8220;telefoon&#8221;. Het controleren van e-mail op de dag zal ongeveer het volgende schema aanhouden.</p>
+Het lezen van e-mail is beperkt tot maximaal 3 keer per dag. In het weekend is dit maar 1 keer per dag. E-mail is per definitie iets waarvan je niet met zekerheid kunt weten of iemand direct zal reageren. Indien je wilt dat iemand direct reageert is er het medium 'telefoon'. Het controleren van e-mail op de dag zal ongeveer het volgende schema aanhouden.
 
-<ul>
-<li>Het begin van de werkdag</li>
-<li>Na de lunch</li>
-<li>Aan het einde van de werkdag</li>
-</ul>
+- Het begin van de werkdag
+- Na de lunch
+- Aan het einde van de werkdag
 
-<h2>E-mail replyen</h2>
+## E-mail beantwoorden
 
-<p>Het beantwoorden van e-mail is een tijdrovende klus geworden op sommige dagen. Om daar een beetje vaart in te krijgen en om het kaf van het koren te scheiden zijn de volgende regels opgesteld.</p>
+Het beantwoorden van e-mail is een tijdrovende klus geworden op sommige dagen. Om daar een beetje vaart in te krijgen en om het kaf van het koren te scheiden zijn de volgende regels opgesteld.
 
-<ul>
-<li>Is de e-mail aan mij gericht en is de e-mail binnen twee minuten te beantwoorden? Direct beantwoorden na het lezen en archiveren.</li>
-<li>Is de e-mail aan mij gericht maar vergt het beantwoorden van de e-mail enige tijd? Als taak noteren en op een later tijdstip replyen en archiveren.</li>
-<li>Is de e-mail aan mij gericht maar enkel ter informatie? Doorlezen en archiveren.</li>
-<li>Is de e-mail niet direct aan mij gericht (aanhef of door &#8220;cc&#8221; veld te gebruiken)? Doorlezen en archiveren.</li>
-</ul>
 
-<h2>E-mail sturen</h2>
+- Is de e-mail aan mij gericht en is de e-mail binnen twee minuten te beantwoorden? Direct beantwoorden na het lezen en archiveren.
+- Is de e-mail aan mij gericht maar vergt het beantwoorden van de e-mail enige tijd? Als taak noteren en op een later tijdstip replyen en archiveren.
+- Is de e-mail aan mij gericht maar enkel ter informatie? Doorlezen en archiveren.
+- Is de e-mail niet direct aan mij gericht (aanhef of door het _cc_ veld te gebruiken)? Doorlezen en archiveren.
 
-<p>Het versturen van e-mail kan de hele dag door.</p>
+## E-mail sturen
 
-<h2>Overig e-mailbeleid</h2>
+Het versturen van e-mail kan de hele dag door.
 
-<p>Om verder de productiviteit op peil te houden zijn alle notificatiesystemen uitgezet. Oók die op mobiele telefoons. <strong>Wil je me direct over iets spreken of heb je een e-mail gestuurd welke ik direct zou moeten lezen? SMS dan.</strong></p>
+## Overig e-mailbeleid
+
+Om verder de productiviteit op peil te houden zijn alle notificatiesystemen uitgezet. Oók die op mobiele telefoons. <strong>Wil je me direct over iets spreken of heb je een e-mail gestuurd welke ik direct zou moeten lezen? SMS dan.</strong>
 
 <hr>
 
-<p>E-mailbeleid door <a href="http://reinierladan.nl" rel="cc:attributionURL">Reinier Ladan</a> heeft de volgende licentie: <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.</p>
+E-mailbeleid door <a href="http://reinierladan.nl" rel="cc:attributionURL">Reinier Ladan</a> heeft de volgende licentie: <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
