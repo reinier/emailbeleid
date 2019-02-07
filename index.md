@@ -7,14 +7,12 @@ layout: home
 
 # E-mailbeleid
 
-<p><strong>De grootste aanslag op productiviteit is e-mail.</strong> Het lezen van e-mail, het schrijven van e-mail, notificaties over e-mail. E-mail zit tegenwoordig overal en vraagt nogal eens wat aandacht. Daarom is dit e-mailbeleid opgesteld met als doel e-mail behapbaar te houden en in goede banen te leiden.</p>
+**De grootste aanslag op productiviteit is e-mail.** Het lezen van e-mail, het schrijven van e-mail, notificaties over e-mail. E-mail zit tegenwoordig overal en vraagt nogal eens wat aandacht. Daarom is dit e-mailbeleid opgesteld met als doel e-mail behapbaar te houden en in goede banen te leiden.
 
-<ul>
-<li>E-mail lezen: 3 keer per dag (weekend 1 keer per dag)</li>
-<li>E-mail replyen: Direct, mits het in minder dan 2 minuten kan</li>
-<li>E-mail sturen: De hele dag door</li>
-<li><strong>Direct in contact komen? SMS dan (of in het uiterste geval, bellen).</strong></li>
-</ul>
+- E-mail lezen: 3 keer per dag (weekend 1 keer per dag)
+- E-mail replyen: Direct, mits het in minder dan 2 minuten kan
+- E-mail sturen: De hele dag door
+- **Direct in contact komen? SMS dan (of in het uiterste geval, bellen).**
 
 -----
 
