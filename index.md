@@ -15,8 +15,10 @@ layout: home
 <li>E-mail sturen: De hele dag door</li>
 <li><strong>Direct in contact komen? SMS dan (of in het uiterste geval, bellen).</strong></li>
 </ul>
-<hr />
-<h2>E-mail lezen</h2>
+
+-----
+
+## E-mail lezen
 
 <p>Het lezen van e-mail is beperkt tot maximaal 3 keer per dag. In het weekend is dit maar 1 keer per dag. E-mail is per definitie iets waarvan je niet met zekerheid kunt weten of iemand direct zal reageren. Indien je wilt dat iemand direct reageert is er het medium &#8220;telefoon&#8221;. Het controleren van e-mail op de dag zal ongeveer het volgende schema aanhouden.</p>
 
